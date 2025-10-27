@@ -8,7 +8,7 @@ function Video() {
                     muted
                     loop
                     playsInline
-                    src="../../../public/video.mp4"
+                    src="/video.mp4"
                 />
             </div>
         </> 
